@@ -56,3 +56,14 @@
 - Test models with varying parameters for optimization
 - Use best models to use on validate set
 - Use the best on test data set
+
+## Findings
+- Biggest determining factors for churn among most models were contract type, internet type, and years with the company
+- In my statistical tests, it was found that internet type was not independent of churn
+- It was also found that being a senior citizen was not independent of churn
+- Among elderly people, those with tech support were much less likely to churn than those without
+
+## Recommendations
+- Surveys to find out why the fiber customers, and month-to-month customers are churning at a higher rate than other groups
+- Offer discount for first 3 months of service for new month-to-month customers
+- Offer a discount on tech support services for our elderly customers which is correlated with less churn
